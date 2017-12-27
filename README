@@ -1,0 +1,7 @@
+This is a simple game that takes input from a file in ./bin title "players.csv".
+Load that file up however you'd like, and run
+
+studio_game
+
+from command line. You may specify the number of turns, and when those turns
+have completed, you may specify more rounds or quit. Pretty simple.
